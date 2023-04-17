@@ -7,6 +7,7 @@ import * as React from 'react'
 import Navbar from '../src/components/navbar/Navbar.component'
 import createEmotionCache from '../src/createEmotionCache'
 import theme from '../src/theme'
+import '../src/globals.css'
 
 // Client-side cache, shared for the whole session of the user in the browser.
 const clientSideEmotionCache = createEmotionCache()
