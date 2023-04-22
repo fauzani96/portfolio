@@ -5,7 +5,7 @@ import Typography from '@mui/material/Typography'
 import Box from '@mui/material/Box'
 import Button from '@mui/material/Button'
 import Link from '../src/Link'
-import ProTip from '../src/ProTip'
+// import ProTip from '../src/ProTip'
 import Copyright from '../src/Copyright'
 
 const About: NextPage = () => {
@@ -25,7 +25,7 @@ const About: NextPage = () => {
             Go to the home page
           </Button>
         </Box>
-        <ProTip />
+        {/* <ProTip /> */}
         <Copyright />
       </Box>
     </Container>
