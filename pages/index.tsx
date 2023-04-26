@@ -11,6 +11,7 @@ import TwitterIcon from '../src/assets/images/github.svg'
 
 import Contribution from '../src/components/contribution/Contribution.component'
 import About from '../src/components/about/About.component'
+import Education from '../src/components/education/Education.component'
 
 const Home: NextPage = () => {
   const socialLinks = [
@@ -52,7 +53,7 @@ const Home: NextPage = () => {
               xs: 4, // theme.breakpoints.up('xs')
               lg: 10,
             },
-            minHeight: 'calc(100vh - 174px)',
+            minHeight: 'calc(100vh - 148px)',
           }}
         >
           <Avatar
@@ -116,6 +117,7 @@ const Home: NextPage = () => {
         </Box>
       </Box>
       <About />
+      <Education />
       {/* <Contribution /> */}
     </>
   )
