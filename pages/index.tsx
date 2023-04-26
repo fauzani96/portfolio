@@ -6,8 +6,8 @@ import {Avatar, Button, Chip, Typography} from '@mui/material'
 import Image from 'next/image'
 import LinkinIcon from '../src/assets/images/linkedin.svg'
 import InstagramIcon from '../src/assets/images/instagram.svg'
-import GithubIcon from '../src/assets/images/twitter.svg'
-import TwitterIcon from '../src/assets/images/github.svg'
+import TwitterIcon from '../src/assets/images/twitter.svg'
+import GithubIcon from '../src/assets/images/github.svg'
 
 import Contribution from '../src/components/contribution/Contribution.component'
 import About from '../src/components/about/About.component'
@@ -121,6 +121,7 @@ const Home: NextPage = () => {
       <Education />
       <Experience />
       {/* <Contribution /> */}
+      <Copyright />
     </>
   )
 }
