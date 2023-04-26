@@ -100,7 +100,7 @@ const Home: NextPage = () => {
               <Chip
                 label="Contact"
                 component="a"
-                href="https://wa.me/089510615099"
+                href="https://wa.me/+6289510615099"
                 clickable
                 variant="filled"
                 color="primary"
