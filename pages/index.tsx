@@ -12,6 +12,7 @@ import TwitterIcon from '../src/assets/images/github.svg'
 import Contribution from '../src/components/contribution/Contribution.component'
 import About from '../src/components/about/About.component'
 import Education from '../src/components/education/Education.component'
+import Experience from '../src/components/experience/Experience.component'
 
 const Home: NextPage = () => {
   const socialLinks = [
@@ -118,6 +119,7 @@ const Home: NextPage = () => {
       </Box>
       <About />
       <Education />
+      <Experience />
       {/* <Contribution /> */}
     </>
   )
