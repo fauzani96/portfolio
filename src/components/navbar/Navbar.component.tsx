@@ -11,7 +11,7 @@ const Navbar = () => {
       <HideOnScroll>
         <StyledAppBar color="transparent" sx={{px: 2, py: 2}}>
           <h1>Fauzani Shah Allam</h1>
-          <MenuIcon fontSize="large" />
+          {/* <MenuIcon fontSize="large" /> */}
         </StyledAppBar>
       </HideOnScroll>
       {/* <Toolbar /> */}

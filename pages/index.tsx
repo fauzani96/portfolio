@@ -116,7 +116,7 @@ const Home: NextPage = () => {
         </Box>
       </Box>
       <About />
-      <Contribution />
+      {/* <Contribution /> */}
     </>
   )
 }
