@@ -63,7 +63,7 @@ const Home: NextPage = () => {
               height: {xs: 200, lg: 400},
               ml: {lg: 24},
             }}
-            src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png"
+            src={'https://i.ibb.co/VxfD2DF/cv-phoy.jpg'}
           />
           <Box
             sx={{
