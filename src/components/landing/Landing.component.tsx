@@ -81,9 +81,8 @@ const Landing = () => {
               clickable
               component="a"
               href={
-                'https://export-download.canva.com/J3MMI/DAFgF9J3MMI/32/0-3441203044.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230425%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230425T101840Z&X-Amz-Expires=68523&X-Amz-Signature=b16ac61626fc112960acc67139a2eb0bcace70bb7b2b3d66fe18e0f1b2840e4f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Muhammad%2520fauzani%2520shah%2520allam.pdf&response-expires=Wed%2C%2026%20Apr%202023%2005%3A20%3A43%20GMT'
+                'https://drive.google.com/file/d/10E4kpaSU-VmUEZeE86lThgTQA9ouJEFe/view?usp=drive_link'
               }
-              download="resume"
               target="_blank"
               rel="noreferrer"
               variant="outlined"
