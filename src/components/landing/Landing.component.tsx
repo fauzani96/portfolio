@@ -81,7 +81,7 @@ const Landing = () => {
               clickable
               component="a"
               href={
-                'https://drive.google.com/file/d/1VFEA70fv7T6YyRBKu88DyQHwTMc8o3DY/view?usp=drive_link'
+                'https://drive.google.com/file/d/1u0hjR4oaUS8x4FEF9ZGhYQvlKEwBu4oD/view?usp=drive_link'
               }
               target="_blank"
               rel="noreferrer"
