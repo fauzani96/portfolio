@@ -55,7 +55,8 @@ const Landing = () => {
             height: {xs: 200, lg: 400},
             ml: {lg: 24},
           }}
-          src={'https://i.ibb.co/VxfD2DF/cv-phoy.jpg'}
+          variant="rounded"
+          src={'/images/profile.jpeg'}
         />
         <Box
           sx={{
