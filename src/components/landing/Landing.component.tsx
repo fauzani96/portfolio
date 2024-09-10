@@ -54,8 +54,8 @@ const Landing = () => {
             width: {xs: 200, lg: 400},
             height: {xs: 200, lg: 400},
             ml: {lg: 24},
+            mt: {xs: 4},
           }}
-          variant="rounded"
           src={'/images/profile.jpeg'}
         />
         <Box
