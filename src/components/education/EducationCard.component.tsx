@@ -34,7 +34,7 @@ function EducationCard({
       }}
     >
       <div className="educard-img" style={{backgroundColor: 'rgb(33, 33, 33)'}}>
-        <Image src={eduImgWhite} alt="" />
+        <Image src={eduImgWhite} alt="education-icon" width={36} height={36} />
       </div>
       <div className="education-details">
         <Typography variant="h6" style={{color: 'rgb(33, 33, 33)'}}>

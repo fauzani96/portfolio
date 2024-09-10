@@ -14,6 +14,9 @@ let theme = createTheme({
       main: red.A400,
     },
   },
+  typography: {
+    fontFamily: ['Poppins', 'sans-serif'].join(','),
+  },
 })
 
 theme = responsiveFontSizes(theme)
