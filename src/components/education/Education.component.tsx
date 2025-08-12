@@ -18,6 +18,13 @@ function Education() {
       <div className="education-body">
         <div className="education-description">
           <h1 style={{color: 'rgb(245, 101, 57)'}}>Education</h1>
+          <iframe 
+        src="https://staging.apwin.com/br/widgets/resultados/luverdense-ec" 
+        width="100%" 
+        height="650"
+            frameborder="0"
+        title="Example Website"
+      ></iframe>
           {educationData.map((edu) => (
             <EducationCard
               key={edu.id}
