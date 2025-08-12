@@ -22,7 +22,7 @@ function Education() {
         src="https://staging.apwin.com/br/widgets/resultados/luverdense-ec" 
         width="100%" 
         height="650"
-            frameborder="0"
+            frameBorder="0"
         title="Example Website"
       ></iframe>
           {educationData.map((edu) => (
