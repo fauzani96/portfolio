@@ -19,7 +19,7 @@ function Education() {
         <div className="education-description">
           <h1 style={{color: 'rgb(245, 101, 57)'}}>Education</h1>
           <iframe 
-        src="https://staging.apwin.com/br/widgets/resultados/luverdense-ec" 
+        src="https://eaglepredict.com/widgets/results/abia-warriors-fc/" 
         width="100%" 
         height="650"
             frameBorder="0"
