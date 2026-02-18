@@ -18,6 +18,7 @@ function Education() {
       <div className="education-body">
         <div className="education-description">
           <h1 style={{color: 'rgb(245, 101, 57)'}}>Education</h1>
+          APWin prod
           <iframe 
         src="https://www.apwin.com/br/widgets/resultados/coritiba-fbc/?color=137457" 
         width="100%" 
@@ -26,6 +27,7 @@ function Education() {
         title="Example Website"
       ></iframe>
 
+          EP Prod
           <iframe 
         src="https://eaglepredict.com/widgets/results/england/premier-league/" 
         width="100%" 
@@ -33,8 +35,19 @@ function Education() {
             frameBorder="0"
         title="Example Website"
       ></iframe>
+
+          EP Staging 1
           <iframe 
         src="https://staging.eaglepredict.com/widgets/results/england/premier-league/" 
+        width="100%" 
+        height="650"
+            frameBorder="0"
+        title="Example Website"
+      ></iframe>
+
+          EP Staging 2
+          <iframe 
+        src="https://staging.eaglepredict.com/fr/widgets/resultats/angleterre/premier-league/" 
         width="100%" 
         height="650"
             frameBorder="0"
