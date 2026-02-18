@@ -33,6 +33,13 @@ function Education() {
             frameBorder="0"
         title="Example Website"
       ></iframe>
+          <iframe 
+        src="https://staging.eaglepredict.com/widgets/results/england/premier-league/" 
+        width="100%" 
+        height="650"
+            frameBorder="0"
+        title="Example Website"
+      ></iframe>
           {educationData.map((edu) => (
             <EducationCard
               key={edu.id}
